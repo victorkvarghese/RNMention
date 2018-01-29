@@ -40,7 +40,7 @@ $react-native run-ios
 - [React Logger](https://github.com/evgenyrodionov/redux-logger) middleware for Redux logging
 - [Redux Persist](https://github.com/rt2zz/redux-persist) Persist and rehydrate a redux store
 - [React Navigation](https://github.com/react-community/react-navigation) navigation for React Native
-- [Moment](https://momentjs.com/) date operations in js
+- [Lodash](https://lodash.com/) 
 - [Babel](http://babeljs.io/) for ES6+ support
 
 ## File Structure
